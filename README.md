@@ -16,4 +16,12 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
 ## Upcoming events
   1. **Taller de R para Ciencia de Datos**
        - *Sábado 27 de mayo de 2017, 15:30 hs.*
-
+       
+       - Taller de R para Ciencia de Datos:
+            - Presentado por [Laura Ación](https://rladies.org/argentina-rladies/name/laura-acion/)
+            - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-05-27-Segundo-evento-Taller-Ciencia-de-Datos/Taller_R4DS_Parte_I.pptx)
+            - [Script](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-05-27-Segundo-evento-Taller-Ciencia-de-Datos/Taller_R4DS_Parte_I.R)
+              
+       - Mapas temáticos rápidos con tmap:
+            - Presentado por [Priscilla Minotti](http://unsam.academia.edu/PMinotti)
+            - [Rmd](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-05-27-Segundo-evento-Taller-Ciencia-de-Datos/tmaps_Pminotti.Rmd) 
