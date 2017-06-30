@@ -10,7 +10,7 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
       - *Martes 28 de marzo de 2017, 18:00 hs.*
       - Presentado por [Laura Ación](https://rladies.org/argentina-rladies/name/laura-acion/) y [Daniela Vázquez](http://d4tagirl.com).
           * [Bienvenidas!](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-03-28-Primer-evento-de-R-Ladies-Buenos-Aires/LA-Bienvenidas.pdf)
-          * [Aceptando la incertidumbre](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-03-28-Primer-evento-de-R-Ladies-Buenos-Aires/DV-Aceptando-la-Incertidumbre.pdf)
+          * [Aceptando la incertidumbre](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-03-28-Primer-evento-de-R-Ladies-Buenos-Aires/DV-Aceptando-la-Incertidumbre.pdf)
 
 
   2. **Taller de R para Ciencia de Datos**
