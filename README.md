@@ -37,4 +37,4 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
     
  ## Other events
    1. Presentación INTI ([Daniela Vázquez](http://d4tagirl.com))
-      - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/INTI_20170608.pptx)
+      - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/Otros%20Eventos/INTI_20170608.pptx)
