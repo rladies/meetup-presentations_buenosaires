@@ -31,10 +31,10 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
   4. **Aplicaciones intermedias y avanzadas de R**
     - *Sábado 1° de julio de 2017, 17:30 hs.*
     - R y Radares: muchos datos y algunos resultados ([Paola Corrales](https://twitter.com/PaobCorrales))
-      - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.pptx)
-      - [Rmd](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.Rmd)
-      - [Html](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.html)
+      - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.pptx)
+      - [Rmd](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.Rmd)
+      - [Html](https://raw.githubusercontent.com/rladies/meetup-presentations_buenosaires/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.Rmd)
     
  ## Other events
    1. Presentación INTI
-      - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/Otros%20Eventos/INTI_20170608.pptx)
+      - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/Otros%20Eventos/INTI_20170608.pptx)
