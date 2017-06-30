@@ -22,12 +22,13 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
           * [Rmd](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-05-27-Segundo-evento-Taller-Ciencia-de-Datos/tmaps_Pminotti.Rmd)
 
 
-2. **Taller de R para Ciencia de Datos (Parte II)**
+## Upcoming events
+  3. **Taller de R para Ciencia de Datos (Parte II)**
     - *Sábado 1° de julio de 2017, 16:00 hs.*
     - Taller de R para Ciencia de Datos ([Inés Caridi](http://www.ic.fcen.uba.ar/Integrantes-Investigadores.php))
       - [Script](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-07-01-Tercer-evento-Taller-Ciencia-de-Datos-II/Taller_R4DS_Parte_II.R)
 
-2. **Aplicaciones intermedias y avanzadas de R**
+  4. **Aplicaciones intermedias y avanzadas de R**
     - *Sábado 1° de julio de 2017, 17:30 hs.*
     - R y Radares: muchos datos y algunos resultados ([Paola Corrales](https://twitter.com/PaobCorrales))
       - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.pptx)
@@ -35,5 +36,5 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
       - [Html](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.html)
     
 **Otros Eventos**
-    -Presentación INTI ([Daniela Vázquez](http://d4tagirl.com))  
-    -[Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/INTI_20170608.pptx)  
+    -Presentación INTI ([Daniela Vázquez](http://d4tagirl.com))
+    -[Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/INTI_20170608.pptx)
