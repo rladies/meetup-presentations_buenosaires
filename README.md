@@ -34,4 +34,6 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
       - [Rmd](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.Rmd)
       - [Html](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.html)
     
-## Upcoming events
+**Otros Eventos**
+    -Presentación INTI ([Daniela Vázquez](http://d4tagirl.com))
+    -[Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/INTI_20170608.pptx)
