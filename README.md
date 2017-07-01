@@ -33,7 +33,7 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
       - *Sábado 1° de julio de 2017, 17:30 hs.*
       - R y Radares: muchos datos y algunos resultados ([Paola Corrales](https://twitter.com/PaobCorrales))
         - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.pptx)
-         - [Rmd](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.Rmd) y [Datos](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/DatosRadar)
+         - [Rmd](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.Rmd) y [Datos](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Datos)
          - [Html](https://raw.githubusercontent.com/rladies/meetup-presentations_buenosaires/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Paola_Corrales_RLadies.html)
       - Entender haciendo: Arriesgando código para descomponer papers de trabajo o   estudio ([Gabriela Plantié](https://www.linkedin.com/in/gabriela-planti%C3%A9-772a8946/?ppe=1))
            - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/Charla_Gabriela_Plantie_RLadies.pptx)
