@@ -11,7 +11,7 @@ ui<- fluidPage(theme = shinytheme("lumen"), h1(strong("Rladies Buenos Aires")), 
                 sidebarPanel(radioButtons("Vx", "Eje X", selected = "displ", inline = FALSE, width = NULL , choices= c("Millas de autopista por galon"="hwy", "Millas de ciudad por galon"="cty", "Cilindrada del motor (L)"="displ")),
                              radioButtons("Vy", "Eje Y", selected = "hwy", inline = FALSE, width = NULL , choices= c("Millas de autopista por galon"="hwy", "Millas de ciudad por galon"="cty", "Cilindrada del motor (L)"="displ")),
                 radioButtons("class", "Clase",  inline = FALSE, width = NULL , choices= c("Tipo de auto"="class", "Numero de cilindros"="cyl", "Modelo"="model", "Marca"="manufacturer")),
-                img(src='nametag_7x5.png', width= 200, align = "topright")),
+                img(src='nametag_7x5.png', width= 200)),
                 mainPanel(
                           plotOutput("coolplot"))))
 
