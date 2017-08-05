@@ -43,7 +43,7 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
       - *Sábado 5 de agosto de 2017, 15:00 hs.*
       - Taller de Datos Geográficos ([Priscilla Minotti](http://unsam.academia.edu/PMinotti))
       - Haciendo Brillar tus Datos - Introducción al paquete Shiny ([Florencia D'Andrea](https://www.researchgate.net/profile/Maria_Dandrea2))
-         - [Script](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2017-08-05%20-%20Cuarto%20evento%20-%20Intro%20a%20Shiny/Rladies)
+         - [Script](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2017-08-05%20-%20Cuarto%20evento%20-%20Intro%20a%20Shiny)
 
 
  ## Other events
