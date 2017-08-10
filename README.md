@@ -42,6 +42,11 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
   5. **Taller de Datos Geográficos con R + Intro a Shiny**
       - *Sábado 5 de agosto de 2017, 15:00 hs.*
       - Taller de Datos Geográficos ([Priscilla Minotti](http://unsam.academia.edu/PMinotti))
+         - [Datos](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-08-05%20-%20Cuarto%20evento%20-%20Taller%20de%20datos%20geograficos%20-parte%201/DatosGeo%20(1).zip)
+         - [Script](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-08-05%20-%20Cuarto%20evento%20-%20Taller%20de%20datos%20geograficos%20-parte%201/Geo1_Raster.R)
+         - [Script](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-08-05%20-%20Cuarto%20evento%20-%20Taller%20de%20datos%20geograficos%20-parte%201/Geo1_Vector.R)
+         - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-08-05%20-%20Cuarto%20evento%20-%20Taller%20de%20datos%20geograficos%20-parte%201/RLadiesBA-05082017-Geo1.pdf)
+         
       - Haciendo Brillar tus Datos - Introducción al paquete Shiny ([Florencia D'Andrea](https://www.researchgate.net/profile/Maria_Dandrea2))
          - [Script](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2017-08-05%20-%20Cuarto%20evento%20-%20Intro%20a%20Shiny)
          - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-08-05%20-%20Cuarto%20evento%20-%20Intro%20a%20Shiny/RLADIES2017.ppsx)
