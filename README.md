@@ -38,7 +38,6 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
            - [Script](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/scripts_base_loans_2.R)
           - [Paper](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-07-01-Tercer-evento-Aplicaciones-en-R/EAD_%20loans_paper_%20matrices%20de%20transicion.pdf)
 
-## Upcoming events
   5. **Taller de Datos Geográficos con R + Intro a Shiny**
       - *Sábado 5 de agosto de 2017, 15:00 hs.*
       - Taller de Datos Geográficos ([Priscilla Minotti](http://unsam.academia.edu/PMinotti))
@@ -51,6 +50,13 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
          - [Script](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2017-08-05%20-%20Cuarto%20evento%20-%20Intro%20a%20Shiny)
          - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-08-05%20-%20Cuarto%20evento%20-%20Intro%20a%20Shiny/RLADIES2017.ppsx)
 
+## Upcoming events
+   6. **Taller de Shiny + Clínica**
+   - *Sábado 30 de septiembre de 2017, 16:00 hs.*
+   - Taller de Datos Geográficos ([Florencia D'Andrea](https://twitter.com/cantoflor_87?lang=es)
+         - [Plantilla Shiny](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-09-30%20-%20Quinto%20evento%20-%20Taller%20de%20Shiny/PlantillaShiny.R)
+         - [Shiny Dashboard](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2017-09-30%20-%20Quinto%20evento%20-%20Taller%20de%20Shiny/Dashboard)
+         - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-09-30%20-%20Quinto%20evento%20-%20Taller%20de%20Shiny/RLADIES2017parte2.pptx)
 
  ## Other events
    1. Presentación INTI
