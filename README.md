@@ -53,11 +53,11 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
 ## Upcoming events
    6. **Taller de Shiny + Clínica**
       - *Sábado 30 de septiembre de 2017, 16:00 hs.*
-      - Taller de Datos Geográficos ([Florencia D'Andrea](https://twitter.com/cantoflor_87?lang=es)
+      - Taller de Shiny ([Florencia D'Andrea](https://twitter.com/cantoflor_87?lang=es)
          - [Plantilla Shiny](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-09-30%20-%20Quinto%20evento%20-%20Taller%20de%20Shiny/PlantillaShiny.R)
          - [Shiny Dashboard](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2017-09-30%20-%20Quinto%20evento%20-%20Taller%20de%20Shiny/Dashboard)
          - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-09-30%20-%20Quinto%20evento%20-%20Taller%20de%20Shiny/RLADIES2017parte2.pptx)
-
+      - Clínica de Proyectos (R-nurse) Emma
  ## Other events
    1. Presentación INTI
          - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/Otros%20Eventos/INTI_20170608.pptx)
