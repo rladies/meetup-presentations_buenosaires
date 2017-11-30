@@ -45,12 +45,12 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
          - [Script](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-08-05%20-%20Cuarto%20evento%20-%20Taller%20de%20datos%20geograficos%20-parte%201/Geo1_Raster.R)
          - [Script](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-08-05%20-%20Cuarto%20evento%20-%20Taller%20de%20datos%20geograficos%20-parte%201/Geo1_Vector.R)
          - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-08-05%20-%20Cuarto%20evento%20-%20Taller%20de%20datos%20geograficos%20-parte%201/RLadiesBA-05082017-Geo1.pdf)
-         
+
       - Haciendo Brillar tus Datos - Introducción al paquete Shiny ([Florencia D'Andrea](https://www.researchgate.net/profile/Maria_Dandrea2))
          - [Script](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2017-08-05%20-%20Cuarto%20evento%20-%20Intro%20a%20Shiny)
          - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-08-05%20-%20Cuarto%20evento%20-%20Intro%20a%20Shiny/RLADIES2017.ppsx)
 
-## Upcoming events
+
    6. **Taller de Shiny + Clínica**
       - *Sábado 30 de septiembre de 2017, 16:00 hs.*
       - Taller de Shiny ([Florencia D'Andrea](https://twitter.com/cantoflor_87?lang=es))
@@ -58,6 +58,15 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
          - [Shiny Dashboard](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2017-09-30%20-%20Quinto%20evento%20-%20Taller%20de%20Shiny/Dashboard)
          - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-09-30%20-%20Quinto%20evento%20-%20Taller%20de%20Shiny/RLADIES2017parte2.pptx)
       - Clínica de Proyectos (R-nurse) Emma
- ## Other events
-   1. Presentación INTI
-         - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/Otros%20Eventos/INTI_20170608.pptx)
+  7. **Taller de RMarkdown**
+      - *Sábado 25 de noviembre de 2017, 16:00 hs.*
+      - Taller de RMarkdown ([Laura Ación](https://rladies.org/argentina-rladies/name/laura-acion/), [Paola Corrales](https://twitter.com/PaobCorrales), [Julieta Benitez](https://twitter.com/July_Benitezs))
+
+        - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-11-25%20-%20Sexto%20evento%20-%20Taller%20de%20RMarkdown/Taller%20de%20RMarkdown.pptx)
+        - [Script a convertir](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-11-25%20-%20Sexto%20evento%20-%20Taller%20de%20RMarkdown/Script%20a%20convertir.R)
+        - [Solución](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-11-25%20-%20Sexto%20evento%20-%20Taller%20de%20RMarkdown/Script%20convertido.Rmd) y [archivo compilado](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-11-25%20-%20Sexto%20evento%20-%20Taller%20de%20RMarkdown/Script_convertido.pdf)
+
+## Upcoming events
+## Other events
+   1. **Presentación INTI**
+        - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/Otros%20Eventos/INTI_20170608.pptx)
