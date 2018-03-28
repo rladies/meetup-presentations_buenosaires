@@ -65,6 +65,14 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
         - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-11-25%20-%20Sexto%20evento%20-%20Taller%20de%20RMarkdown/Taller%20de%20RMarkdown.pptx)
         - [Script a convertir](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-11-25%20-%20Sexto%20evento%20-%20Taller%20de%20RMarkdown/Script%20a%20convertir.R)
         - [Solución](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-11-25%20-%20Sexto%20evento%20-%20Taller%20de%20RMarkdown/Script%20convertido.Rmd) y [archivo compilado](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2017-11-25%20-%20Sexto%20evento%20-%20Taller%20de%20RMarkdown/Script_convertido.pdf)
+  8. ** +
+    - *Martes 27 de marzo de 2018, 18:30 hs.*
+    - Material y Experiencias de la Rstudio Conf 2018 ([Florencia D'Andrea](https://twitter.com/cantoflor_87?lang=es))
+        - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-03-27%20-%20Primer%20evento%202018/2018-Rladies-1-Presentacion%2BRstudioConf.pptx)
+    - Otras fuentes de información y materiales ([Paola Priero](https://twitter.com/PaoPrieto))
+        - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-03-27%20-%20Primer%20evento%202018/2018%20-%20Rladies%20-1-%20Resultados%20Encuesta.pptx)
+    - Usando y Enseñando R para Investigación Reproducible ([Rayna Harris](https://twitter.com/raynamharris))
+        - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-03-27%20-%20Primer%20evento%202018/2018-03-72-BuenosAires.pdf)
 
 ## Upcoming events
 ## Other events
