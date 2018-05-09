@@ -75,10 +75,10 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
           - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-03-27%20-%20Primer%20evento%202018/2018-03-72-BuenosAires.pdf)
 
 ## Upcoming events
-**R desde cero + Charla: Indicadores de desigualdad de género**
-      - *Sábado 19 de mayo de 2018, 15:30 hs.*
-      - R desde cero ([Priscilla Minotti](http://unsam.academia.edu/PMinotti) y [Fabiana Flores](https://twitter.com/Fabiana_Flores))
-      - Indicadores de desigualdad de género con datos abiertos de la Encuesta Permanente de Hogares ([Natsumi Shokida](https://twitter.com/NatsuSh))
+* **R desde cero + Charla: Indicadores de desigualdad de género**
+  - *Sábado 19 de mayo de 2018, 15:30 hs.*
+  - R desde cero ([Priscilla Minotti](http://unsam.academia.edu/PMinotti) y [Fabiana Flores](https://twitter.com/Fabiana_Flores))
+  - Indicadores de desigualdad de género con datos abiertos de la Encuesta Permanente de Hogares ([Natsumi Shokida](https://twitter.com/NatsuSh))
 
 ## Other events
    1. **Presentación INTI**
