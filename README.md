@@ -73,12 +73,17 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
           - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-03-27%20-%20Primer%20evento%202018/2018%20-%20Rladies%20-1-%20Resultados%20Encuesta.pptx)
       - Usando y Enseñando R para Investigación Reproducible ([Rayna Harris](https://twitter.com/raynamharris))
           - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-03-27%20-%20Primer%20evento%202018/2018-03-72-BuenosAires.pdf)
-
+  9. **R desde cero + Charla: Indicadores de desigualdad de género**
+      - *Sábado 19 de mayo de 2018, 15:30 hs.*
+      - R desde cero ([Priscilla Minotti](http://unsam.academia.edu/PMinotti) y [Fabiana Flores](https://twitter.com/Fabiana_Flores))
+      - Indicadores de desigualdad de género con datos abiertos de la Encuesta Permanente de Hogares ([Natsumi Shokida](https://twitter.com/NatsuSh))
+  10. **¡Nos visita de Tamara Broderick!**
+      - *Lunes 18 de junio de 2018, 18:30 hs.*
+      - Automated Scalable Bayesian Inference via Data Summarization ([Tamara Broderick](Automated Scalable Bayesian Inference via Data Summarization))
 ## Upcoming events
-* **R desde cero + Charla: Indicadores de desigualdad de género**
-  - *Sábado 19 de mayo de 2018, 15:30 hs.*
-  - R desde cero ([Priscilla Minotti](http://unsam.academia.edu/PMinotti) y [Fabiana Flores](https://twitter.com/Fabiana_Flores))
-  - Indicadores de desigualdad de género con datos abiertos de la Encuesta Permanente de Hogares ([Natsumi Shokida](https://twitter.com/NatsuSh))
+* **De SPSS a R**
+  - *Sábado 4 de agosto de 2018, 15:30 hs.*
+  - Taller "De SPSS a R" (Jesica Formoso)
 
 ## Other events
    1. **Presentación INTI**
