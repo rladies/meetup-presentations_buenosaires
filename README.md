@@ -79,11 +79,12 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
       - Indicadores de desigualdad de género con datos abiertos de la Encuesta Permanente de Hogares ([Natsumi Shokida](https://twitter.com/NatsuSh))
   10. **¡Nos visita de Tamara Broderick!**
       - *Lunes 18 de junio de 2018, 18:30 hs.*
-      - Automated Scalable Bayesian Inference via Data Summarization ([Tamara Broderick](Automated Scalable Bayesian Inference via Data Summarization))
+      - Automated Scalable Bayesian Inference via Data Summarization ([Tamara Broderick](http://www.tamarabroderick.com/))
 ## Upcoming events
 * **De SPSS a R**
   - *Sábado 4 de agosto de 2018, 15:30 hs.*
   - Taller "De SPSS a R" (Jesica Formoso)
+    - [Scrip y datos](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-08-04%20-%20De%20SPSS%20a%20R/scrip_datos.zip)
 
 ## Other events
    1. **Presentación INTI**
