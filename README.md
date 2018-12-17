@@ -89,7 +89,6 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
   11. **De SPSS a R**
 
     *Sábado 4 de agosto de 2018, 15:30 hs.*
-
     - Taller "De SPSS a R" (Jesica Formoso)
         - [Script y datos](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-08-04%20-%20De%20SPSS%20a%20R/scrip_datos.zip)
         - [Video casero](https://youtu.be/5E07JNr32Ek)
