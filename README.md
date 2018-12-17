@@ -73,18 +73,35 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
           - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-03-27%20-%20Primer%20evento%202018/2018%20-%20Rladies%20-1-%20Resultados%20Encuesta.pptx)
       - Usando y Enseñando R para Investigación Reproducible ([Rayna Harris](https://twitter.com/raynamharris))
           - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-03-27%20-%20Primer%20evento%202018/2018-03-72-BuenosAires.pdf)
+      - [Video casero del meetup](https://youtu.be/GiLxGgZTr9Q)
   9. **R desde cero + Charla: Indicadores de desigualdad de género**
       - *Sábado 19 de mayo de 2018, 15:30 hs.*
-      - R desde cero ([Priscilla Minotti](http://unsam.academia.edu/PMinotti) y [Fabiana Flores](https://twitter.com/Fabiana_Flores))
+      - R desde cero ([Priscilla Minotti](http://unsam.academia.edu/PMinotti), [Fabiana Flores](https://twitter.com/Fabiana_Flores) y Mónica Alonso)
+        - [Video casero](https://youtu.be/5E07JNr32Ek)
       - Indicadores de desigualdad de género con datos abiertos de la Encuesta Permanente de Hogares ([Natsumi Shokida](https://twitter.com/NatsuSh))
-  10. **¡Nos visita de Tamara Broderick!**
+          - [Video casero](https://youtu.be/XIGcMjz1VxE)
+  10. **¡Nos visita Tamara Broderick!**
       - *Lunes 18 de junio de 2018, 18:30 hs.*
-      - Automated Scalable Bayesian Inference via Data Summarization ([Tamara Broderick](http://www.tamarabroderick.com/))
+      - Automated Scalable Bayesian Inferenc e via Data Summarization ([Tamara Broderick](http://www.tamarabroderick.com/))
+  11. **De SPSS a R**
+    - *Sábado 4 de agosto de 2018, 15:30 hs.*
+    - Taller "De SPSS a R" (Jesica Formoso)
+      - [Scrip y datos](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-08-04%20-%20De%20SPSS%20a%20R/scrip_datos.zip)
+      - [Video casero](https://youtu.be/5E07JNr32Ek)
+  12. **¡Nos visita Jenny Bryan!**
+      - *Jueves 6 de septiembre de 2018, 18:30 hs.*
+      - Writing R functions for fun and profit ([Jenny Bryan](https://twitter.com/JennyBryan))
+          - [Video](https://youtu.be/Z73JvEEzR7Y)
+  10. **¡Último meetup del 2018! Taller de Blogdown + Presentación de [R en Buenos Aires](https://renbaires.github.io/)**
+      - *Lunes 3 de diciembre de 2018, 18:30 hs.*
+      - Presentación de R en Buenos Aires (Diego Kozlowski y Verónica ODonell)
+      - Taller de Blogdown ([Paola Corrales](paocorrales.github.io) y [Elio Campitelli](https://eliocamp.github.io/codigo-r/))
+          - [Materiales]()
+      - [Video con todas las presentaciones](https://www.youtube.com/watch?v=KLUkxJCz1ew&feature=youtu.be)
+
 ## Upcoming events
-* **De SPSS a R**
-  - *Sábado 4 de agosto de 2018, 15:30 hs.*
-  - Taller "De SPSS a R" (Jesica Formoso)
-    - [Scrip y datos](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-08-04%20-%20De%20SPSS%20a%20R/scrip_datos.zip)
+
+Nos tomamos unos meses de vacaciones para prepararnos para un 2019 de muchos encuentros!
 
 ## Other events
    1. **Presentación INTI**
