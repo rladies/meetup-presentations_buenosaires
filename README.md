@@ -103,8 +103,8 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
 
       *Lunes 3 de diciembre de 2018, 18:30 hs.*
       - R-Ladies Buenos Aires - Fin de Temporada 2018 ([Laura Ación](https://lacion.rbind.io/))
-          - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-12-03%20-%20Taller%20de%20Blogdown/Taller%20de%20Blogdown.pptx)
-      - Presentación de R en Buenos Aires (Diego Kozlowski y Verónica ODonell)
+          - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-12-03%20-%20Taller%20de%20Blogdown/Apertura_20181203.pptx)
+      - Presentación de R en Buenos Aires (Diego Kozlowski y Victoria O'Donell)
       - Taller de Blogdown ([Paola Corrales](paocorrales.github.io) y [Elio Campitelli](https://eliocamp.github.io/codigo-r/))
           - [Materiales](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-12-03%20-%20Taller%20de%20Blogdown/taller-blogdown.zip) y [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-12-03%20-%20Taller%20de%20Blogdown/Taller%20de%20Blogdown.pptx)
       - [Video con todas las presentaciones](https://www.youtube.com/watch?v=KLUkxJCz1ew&feature=youtu.be)
