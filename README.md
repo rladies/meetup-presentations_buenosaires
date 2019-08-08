@@ -124,7 +124,7 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
          - [Slides](https://github.com/PaoPrieto/RladiesBA_taller_webscraping/blob/master/Presentacion_taller_webscraping-Paola_Prieto.pdf)
          - [Material](https://github.com/PaoPrieto/RladiesBA_taller_webscraping)
        - Aprendiendo a usar R con Datos Meteorológicos ([Natalia Gattinoni]())
-         - [Slides]()  
+         - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2019-06-15-webscrapping-y-datos-meteorologicos/Aprendiendo%20R%20con%20datos%20meteorologicos_Final.pptx)  
   
   
 ## Upcoming events
