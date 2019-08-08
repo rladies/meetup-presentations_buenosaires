@@ -109,9 +109,26 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
           - [Materiales](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-12-03%20-%20Taller%20de%20Blogdown/taller-blogdown.zip) y [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-12-03%20-%20Taller%20de%20Blogdown/Taller%20de%20Blogdown.pptx)
       - [Video con todas las presentaciones](https://www.youtube.com/watch?v=KLUkxJCz1ew&feature=youtu.be)
 
+  11. **Tercer temporada: taller de visualización con R, charlas y arranque del año!**
+  
+      *Sábado 6 de abril de 2019 15.30 hs*
+      - Taller de visualización con R ([Romina Mendez]()) 
+        - [Slides]()
+      - Charla sorpresa ([Tatiana Piccolombini]())
+        - [Slides]()
+        
+  12.  **Web Scraping con Rvest en Spotify Charts + R con datos meteorológicos**
+  
+       *Sábado 
+       - Web Scraping con Rvest en Spotify Charts ([Paola Prieto]())
+         - [Slides]()
+       - Aprendiendo a usar R con Datos Meteorológicos ([Natalia Gattinoni]())
+         - [Slides]()  
+  
+  
 ## Upcoming events
 
-Nos tomamos unos meses de vacaciones para prepararnos para un 2019 de muchos encuentros!
+ En Septiembre y octubre tendremos varios eventos!
 
 ## Other events
    1. **Presentación INTI**
