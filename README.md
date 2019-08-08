@@ -119,9 +119,10 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
         
   12.  **Web Scraping con Rvest en Spotify Charts + R con datos meteorológicos**
   
-       *Sábado 
+       *Sábado 15 de junio a las 15.30 hs*
        - Web Scraping con Rvest en Spotify Charts ([Paola Prieto]())
-         - [Slides]()
+         - [Slides](https://github.com/PaoPrieto/RladiesBA_taller_webscraping/blob/master/Presentacion_taller_webscraping-Paola_Prieto.pdf)
+         - [Material](https://github.com/PaoPrieto/RladiesBA_taller_webscraping)
        - Aprendiendo a usar R con Datos Meteorológicos ([Natalia Gattinoni]())
          - [Slides]()  
   
