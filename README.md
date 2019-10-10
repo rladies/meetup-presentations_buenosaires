@@ -145,3 +145,5 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
 ## Other events
    1. **Presentación INTI**
         - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/raw/master/Otros%20Eventos/INTI_20170608.pptx)
+
+   2. **Reunion de organizadoras de grupos en STEM con Erin LeDell en Tierra Violeta**
