@@ -1,0 +1,76 @@
+---
+title: "Manipulando meteoritos"
+author: "Pao"
+output: html_document
+---
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE)
+#Librerías necesarias
+library(readr)
+library(dplyr)
+```
+
+## La base de datos
+
+La base de datos de impacto de meteoritos es la Meteoritical Society y distribuida por la NASA. Pero además forma parte de una población de bases de datos que crece cada semana con el proyecto [TidyTuesday](https://github.com/rfordatascience/tidytuesday/) para prácticar nuestras habilidades con R. También existe [DatosDeMiércoles](https://github.com/cienciadedatos/datos-de-miercoles), el primo hermano que habla español.
+
+[En esta página](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-06-11) pueden encontrar los detalles de esta base de datos en particular.
+
+```{r lectura}
+meteoritos <- read_csv("meteoritos.csv")
+```
+
+Ahora hay un nuevo elemento en nuestro environment `meteoritos` que contiene la base de datos que leimos del archivo *meteoritos.csv*.
+
+### Qué información contiene?
+
+El elemento `meteoritos` es un data frame, una especie de tabla, donde cada fila corresponde a una observación (un meteorito encontrado) y cada columna es una variable o característica de esa observación (el nombre del meteorito, en que año se lo encontró, en donde, etc.).
+
+```{r base}
+head(meteoritos, n = 10) #Veamos las primeras filas
+```
+
+## Un universo de preguntas
+
+Detrás de un buen análisis de datos siempre hay un montón de preguntas para las cuales se está buscando respuesta. Hay preguntas simples que se pueden responde rápidamente:
+
+- ¿Cuántos meteoritos tiene la base de datos?
+- ¿Cuántas clases de meteoritos hay?
+
+y otras más complejas que requieren un análisis profundo o que las repensemos en preguntas más simples:
+
+- ¿Cómo es la distribución espacial de los meteoritos?
+- ¿Hay alguna relación entre clase y su masa?
+
+También puede pasar que estos datos en particular no sean suficientes para responder alguna pregunta:
+
+- ¿Caen más meteoritos en verano o en invierno?
+
+### ¿Cuántos fueron encontrados (found) y cuántos vieron caer (fell)?
+
+```{r cuantos}
+meteoritos %>% 
+  filter(fall == "Found") %>% 
+  summarise(n = n())
+```
+
+### ¿En que año cayeron más meteoritos?
+
+```{r año_mas_interesante}
+meteoritos %>% 
+  group_by(year) %>% 
+  summarise(cantidad = n()) %>% 
+  arrange(cantidad)
+```
+
+### ¿Cómo se llama el meteorito más pesado que vieron caer en 2005 y cuanto pesa?
+
+```{r el_mas_pesado_2005}
+# base de datos %>% 
+# quiero solo los meteoritos del año 2005 %>% 
+# cual será el más pesado? %>% 
+# solo me interesa el nombre y la masa (year y mass) %>% 
+# pero solo quiero el más pesado! %>% 
+```
+
