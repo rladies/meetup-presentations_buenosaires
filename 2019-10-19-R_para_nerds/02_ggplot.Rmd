@@ -1,0 +1,70 @@
+---
+title: "Graficando meteoritos"
+author: "Pao"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#Librerías necesarias
+library(readr)
+library(dplyr)
+library(ggplot2)
+```
+
+## Exploración de datos (y meteoritos)
+
+El análisis exploratorio de datos es una manera de "conocer" y extraer información a una base de datos. No hay una única receta para esto, al contrario, es un proceso donde entra en juego la creatividad de cada persona y está guiado por las preguntas que le hacemos a los datos. En general va a ser necesario manipular los datos (algo de lo que estuvimos haciendo con la librería `dplyr`) y generar visualizaciones. De eso vamos a ocuparnos ahora con la librería `ggplot2`.
+
+```{r lectura}
+meteoritos <- read_csv("meteoritos.csv")
+```
+
+### ¿Cuántos... ?
+
+El gráfico de barras nos permite ver la distribución de las observaciones en las distintas categorías. ¿Qué sucede en este caso? ¿Es útil?
+
+```{r cuantos}
+meteoritos %>%            # Desde acá manipulamos los datos
+  group_by(fall) %>% 
+  summarise(n = n()) %>% 
+  ggplot(aes(fall, n)) +  # A partir de acá graficamos
+  geom_col()
+```
+
+### ¿Cuántos caen por año?
+
+Si solo necesitamos saber en que año cayeron más meteoritos, podemos mostrar el resultado como un número pero si quieramos ver si la cantidad de meteoritos cambia año a año seguro será más fácil de analizar en un gráfico.
+
+```{r evolucion, echo=FALSE}
+meteoritos %>% 
+  filter(between(year, 0, 2012)) %>% 
+  group_by(year, fall) %>% 
+  summarise(cantidad = n()) %>% 
+  ungroup() %>% 
+  ggplot(aes(year, cantidad)) +
+  geom_line() +
+  scale_x_continuous(name = "Nombre del eje x") +
+  scale_y_log10(name = "Nombre del eje y") +
+  labs(title = "Título",
+       subtitle = "Algún subtitulo") +
+  # facet_wrap(~fall, scales = "free_y", ncol = 1) +
+  theme_minimal() 
+```
+
+¿Qué pinta tiene la evolución de los meteoritos a lo largo del tiempo? ¿Tiene sentido graficar TODOS los años? Si bien es importante saber que no hay muchas observaciones antes de 1800, también necesitamos poder analizar con más detalle lo que sucedió en los últimos 200 años. 
+
+Muchas veces tendremmos que buscar la manera de recortar o reducir la cantidad de información en un gráfico para que este sea realmente útil y responda nuestra pregunta.
+
+### ¿Los meteoritos son cada vez más grandes?
+
+Sería interesante saber si los meteoritos se van haciendo más grandes a medida que pasa el tiempo, hay que estar preparados para el apocalipsis. Si bien esta relación puede tener MUY poco sentido físico, es importante analizar la relación entre las variables o características de las observaciones. La manera más simple es vizualizando las variables en un scaterplot o gráfico de puntos. 
+
+```{r}
+# meteoritos %>% 
+#   ggplot(aes(    ,    )) +
+#   geom_ +
+#   ¿Título? +
+#   ¿Algún estilo divertido?
+```
+
