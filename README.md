@@ -1,6 +1,6 @@
 <img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300" height="100" />
 
-# Archivo de las Meetups de R-Ladies Buenos Aires
+# Archivo de los Meetups de R-Ladies Buenos Aires
 
 Recursos de R-Ladies Buenos Aires.
 R-Ladies Buenos Aires fue fundado en Enero de 2017.
@@ -99,7 +99,7 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
       - Writing R functions for fun and profit ([Jenny Bryan](https://twitter.com/JennyBryan))
           - [Video](https://youtu.be/Z73JvEEzR7Y)
 
-  10. **¡Último meetup del 2018! Taller de Blogdown + Presentación de [R en Buenos Aires](https://renbaires.github.io/)**
+  13. **¡Último meetup del 2018! Taller de Blogdown + Presentación de [R en Buenos Aires](https://renbaires.github.io/)**
 
       *Lunes 3 de diciembre de 2018, 18:30 hs.*
       - R-Ladies Buenos Aires - Fin de Temporada 2018 ([Laura Ación](https://lacion.rbind.io/))
@@ -109,7 +109,7 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
           - [Materiales](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-12-03%20-%20Taller%20de%20Blogdown/taller-blogdown.zip) y [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2018-12-03%20-%20Taller%20de%20Blogdown/Taller%20de%20Blogdown.pptx)
       - [Video con todas las presentaciones](https://www.youtube.com/watch?v=KLUkxJCz1ew&feature=youtu.be)
 
-  11. **Tercer temporada: taller de visualización con R, charlas y arranque del año!**
+  14. **Tercer temporada: taller de visualización con R, charlas y arranque del año!**
   
       *Sábado 6 de abril de 2019 15.30 hs*
       - Taller de visualización con R ([Romina Mendez]()) 
@@ -117,7 +117,7 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
       - Charla sorpresa ([Tatiana Piccolombini]())
         - [Slides]()
         
-  12.  **Web Scraping con Rvest en Spotify Charts + R con datos meteorológicos**
+  15.  **Web Scraping con Rvest en Spotify Charts + R con datos meteorológicos**
   
        *Sábado 15 de junio a las 15.30 hs*
        - Web Scraping con Rvest en Spotify Charts ([Paola Prieto]())
@@ -125,24 +125,25 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
          - [Material](https://github.com/PaoPrieto/RladiesBA_taller_webscraping)
        - Aprendiendo a usar R con Datos Meteorológicos ([Natalia Gattinoni]())
          - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2019-06-15-webscrapping-y-datos-meteorologicos/Aprendiendo%20R%20con%20datos%20meteorologicos_Final.pptx)  
-         
-  13. **Taller de Git y RStudio**
+
+  16.  **Taller de Git y RStudio**
+  
+       *Sábado 14 de septiembre a las 15.30 hs*
+       - Cynthia Monastirsky (de Las de Sistemas) y Cintia Callamullo León
+         - [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2019-09-14-Git_Rstudio/git_rstudio.pdf) 
    
-  	 *Sábado 14 de septiembre a las 15.30 hs*
-		- Cynthia Monastirsky (de Las de Sistemas) y Cintia Callamullo León
-		- [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2019-09-14-Git_Rstudio/git_rstudio.pdf)
-   
-  14. **¡Nos visita Erin LeDell!**
+  17. **¡Nos visita Erin LeDell!**
    
    	*Miércoles 3 de octubre a las 18.45 hs*
-   
-  15. **Taller de R para nerds (Evento en nerdear.la)**
-   
-   	*Sábado 19 de octubre a las 10 hs*
-		- Pao Corrales
-		- [Slides](http://bit.ly/slides_Rnerd)
-		- [Código y datos](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2019-10-19-R_para_nerds)
+
+  18.  **Taller de R para nerds (Evento en nerdear.la)**
   
+       *Sábado 19 de octubre a las 10 hs*
+       - Pao Corrales
+         - [Slides](http://bit.ly/slides_Rnerd)
+	 - [Código y datos](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2019-10-19-R_para_nerds)
+ 
+ 
 ## Upcoming events
 
  En Septiembre y octubre tendremos varios eventos!
