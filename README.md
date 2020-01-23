@@ -128,20 +128,20 @@ R-Ladies Buenos Aires fue fundado en Enero de 2017.
          
   13. **Taller de Git y RStudio**
    
-   *Sábado 14 de septiembre a las 15.30 hs*
-	- Cynthia Monastirsky (de Las de Sistemas) y Cintia Callamullo León
-	- [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2019-09-14-Git_Rstudio/git_rstudio.pdf)
+  	 *Sábado 14 de septiembre a las 15.30 hs*
+		- Cynthia Monastirsky (de Las de Sistemas) y Cintia Callamullo León
+		- [Slides](https://github.com/rladies/meetup-presentations_buenosaires/blob/master/2019-09-14-Git_Rstudio/git_rstudio.pdf)
    
-   14. **¡Nos visita Erin LeDell!**
+  14. **¡Nos visita Erin LeDell!**
    
-   *Miércoles 3 de octubre a las 18.45 hs*
+   	*Miércoles 3 de octubre a las 18.45 hs*
    
-   15. **Taller de R para nerds (Evento en nerdear.la)**
+  15. **Taller de R para nerds (Evento en nerdear.la)**
    
-   *Sábado 19 de octubre a las 10 hs*
-	- Pao Corrales
-	- [Slides](http://bit.ly/slides_Rnerd)
-	- [Código y datos](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2019-10-19-R_para_nerds)
+   	*Sábado 19 de octubre a las 10 hs*
+		- Pao Corrales
+		- [Slides](http://bit.ly/slides_Rnerd)
+		- [Código y datos](https://github.com/rladies/meetup-presentations_buenosaires/tree/master/2019-10-19-R_para_nerds)
   
 ## Upcoming events
 
