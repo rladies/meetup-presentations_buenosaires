@@ -1,0 +1,52 @@
+PREGUNTAS
+
+1) Cual es el paquete que utilizamos para realizar graficas
+
+a) ggplot 
+b) ggplot2  (correcta)
+c) ggplotly
+d) ggplotly2
+
+
+2) Como se llama el creador del paquete ggplot2?
+
+a) Hadley Wickham (correcta)
+b) Winston Chang, este es uno de los shiny
+c) Max Kuhn, este es de caret
+d) Martin Maechler, es el autor cluster
+
+3)Cual es el paquete para emojis?
+
+a) search_emoji
+b) emojifont             (Correcto)
+c) EmojiOne
+d) emoji
+
+4) Cual es el paquete para generar graficos interactivos en javascript
+
+a) ggpploty
+b) plotly                (Correcto)
+c) ggplot2
+d) plotly2
+
+5) Cual de los siguientes NO es un parametro de la funcion labs?
+
+a) x e y
+b) caption
+c) title
+d) subtitle
+e) observation          (Correcto)
+
+6) Cual es la funcion que utilizamos para generar paneles? 
+
+a) facet_wrap           (Correcto)
+b) facet
+c) aes
+d) facet_panel
+
+7) Cual de los siguientes es el mejor lenguaje para programar datos?
+
+a) Claramente R         (Correcto)
+b) R sin dudarlo        (Correcto)
+c) Simplemente R        (Correcto)
+d) Todas las anteriores (Correcto)

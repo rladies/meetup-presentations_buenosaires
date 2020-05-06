@@ -1,0 +1,180 @@
+---
+title: "Taller de Visualizacion en R"
+author: Mendez Romina
+date: 2019-04-06
+output: html_notebook
+---
+
+tags: { `rladies`, `r`,`ggplot2`,`plotly`,`emoji` } 
+
+
+## Paquetes
+Los siguientes son los paquetes que vamos a utilizar durante este taller:`ggplot2`, `reshape2`,`emojifont`y `plotly`.
+Para instalar un paquete recuerda que debes utilizar la sintaxis:`install.packages('nombrePaquete')`
+
+```{r iresults='hide' }
+library(ggplot2)
+library(reshape2)
+library(emojifont)
+library(plotly)
+
+```
+* ggplot2: Es el paquete para generar graficas.
+* reshape2: Es el paquete para obtener el dataset denominado tips, el mismo contiene la información sobre cada propina que recibió un camarero durante unos meses trabajando en un restaurante.
+* emojifont: Este paquete nos permite obtener los valores unicode de los emojis.
+* plotly: Este paquete permite generar graficas interactivas.
+
+
+## Gglot2: Grafica en capas
+Vamos a realizar el primer scatter plot, para lo cual creamos el dataset tips y posteriormente utlizamos la funcion ggplot para realizar el grafico.
+
+
+```{r}
+
+df.tips=__________________
+ggplot(      df.tips  ,       aes(x=__________________  ,  y=__________________)    )
+
+```
+
+En el grafico anterior, solo vemos los ejes pero necesitamos agregar una geometria para realizar nuestra grafica de scatter plot.
+Recuerda que para agregar capas debes colocar el signo "+" al finalizar una capa.
+
+```{r}
+
+ggplot(      df.tips  ,       aes(x=__________________  ,  y=__________________)    ) +
+  geom_ _________________()
+
+```
+
+Vamos agregar las leyendas para que nuestro grafico se vea mas completo!
+
+```{r}
+ggplot(      df.tips  ,       aes(x=__________________  ,  y=__________________)    ) +
+  _________________() +
+  labs ( 
+        title='__________________', 
+       subtitle='_____________________________________________',
+       x='______________________', 
+       y='_______________',
+       caption='__________________________________')
+
+
+```
+
+Cambiemos un poco mas nuestro grafico, para lo cual agregamos una variables mas para distinguir nuestros puntos en base a si son hombres o mujeres.
+La variable que nos muestra esto en nuestro grafico es "sex".
+Adicionalmente aumentemos el tamaño de nuestros puntos.
+
+```{r}
+ggplot( df.tips  , aes(x=_____________ , y=_____________, color=__________________ ) ) +
+  _________________( __________________=___ ) +
+  labs ( 
+        title='__________________', 
+       subtitle='_____________________________________________',
+       x='______________________', 
+       y='_______________',
+       caption='__________________________________')
+
+```
+
+Podemos agregar otra capa de geometria para cambiar nuestro grafico, en este caso utilizaremos geom_line, y le daremos un color a la linea.
+
+```{r}
+ggplot( df.tips  , aes(x=_____________ , y=_____________, color=__________________ ) ) +
+  _________________( __________________=___ ) + 
+  _________________ ( color='_________________' ) +
+  labs ( 
+        title='__________________', 
+       subtitle='_____________________________________________',
+       x='______________________', 
+       y='_______________',
+       caption='__________________________________')
+
+```
+
+Cambiemos el tema de nuestro grafico, puedes ver que hay una amplia variedad todos ellos comienzacon con theme_<name>(), en este ejemplo utilizaremos theme_minimal()
+
+```{r}
+ggplot( df.tips  , aes(x=_____________ , y=_____________, color=__________________ ) ) +
+  _________________( __________________=___ ) + 
+  _________________ ( color='_________________' ) +
+  labs ( 
+        title='__________________', 
+       subtitle='_____________________________________________',
+       x='______________________', 
+       y='_______________',
+       caption='__________________________________')+
+ _______________() 
+
+```
+
+
+Cambiemos un poco mas nuestro grafico, para lo cual agregamos una variables mas para distinguir nuestros puntos en base a si son hombres o mujeres.
+La variable que nos muestra esto en nuestro grafico es "sex".
+Adicionalmente aumentemos el tamaño de nuestros puntos.
+
+```{r}
+ggplot( df.tips  , aes(x=_____________ , y=_____________, color=__________________ ) ) +
+  _________________( __________________=___ ) + 
+  _________________ ( color='_________________' ) +
+  labs ( 
+        title='__________________', 
+       subtitle='_____________________________________________',
+       x='______________________', 
+       y='_______________',
+       caption='__________________________________')+
+ _______________()  +
+_____________ (.~ _______________)
+```
+
+## EMOJIFONT: Grafica con emoticones
+Emoji proviene del japones y "e" significa dibujo mientras "moji" significa caracter.
+Los emoji para utilizarlos se incorporaron al standar Unicode.
+Unicode es el estándar de codificación de caracteres universal utilizado para la representación de texto para procesamiento del equipo. Unicode proporciona una manera consistente de codificación de texto multilingüe y facilita el intercambio de archivos de texto internacionales.
+
+Si quieres mas informacion sobre [EMOJIFONT](https://cran.r-project.org/web/packages/emojifont/vignettes/emojifont.html) puedes consultar la documentacion. 
+En nuestro caso vamos a buscar emoji que queremos utilizar, para lo cual exise la funcion search_emoji, esta retorna todos los nombre de los emoji en base a un string de busqueda.
+Veamos un ejemplo:
+```{r}
+
+search_emoji('smile')
+```
+Para ver el emoji que cada uno de estos string retorna, podemos ir a la  
+[Emoji scheat sheet](https://www.webfx.com/tools/emoji-cheat-sheet/).
+Ahora selecionamos un alias y utilizamos la funcion emoji para convertirlo en unicode.
+
+```{r}
+
+emoji('_______________________')
+```
+
+Ahora vamos a crear una columna nueva del dataset df.tips, con el valor unicode de un emoji. 
+En mi caso yo seleccione corazones ("heart")!
+```{r}
+
+  df.tips$emoji=emoji("heart")
+```
+
+
+Una vez generada la columna vamos a realizar un grafico, y de esta manera nuestro scatterplot realizara la grafica de corazones
+
+```{r}
+
+  ggplot(____________,aes(x=___________,y=________,color=______,_________=___________))+
+    ______________()+ 
+    ___________(family="EmojiOne", size=_______,show.legend = ___________)+
+    labs( ______________________________________ ) +
+    theme________()
+```
+Una vez generada la columna vamos a realizar un grafico, y de esta manera nuestro scatterplot realizara la grafica de corazones
+
+```{r}
+
+  df.tips$emoji=______(df.tips$________=='__________', emoji('_______'),emoji('______'))
+
+  ggplot(____________,aes(x=___________,y=________,color=______,_________=___________))+
+    ______________()+ 
+    ___________(family="EmojiOne", size=_______,show.legend = ___________)+
+    labs( ______________________________________ ) +
+    theme________()
+```
